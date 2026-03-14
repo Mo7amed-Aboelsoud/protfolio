@@ -748,7 +748,7 @@ body.light-theme .skill-card {
 .projects-grid {
     margin-top: 32px;
     display: grid;
-    grid-template-columns: repeat(1, minmax(260px, 1fr));
+    grid-template-columns: repeat(2, minmax(260px, 1fr));
     gap: 24px;
 }
 .project-card:first-child {
