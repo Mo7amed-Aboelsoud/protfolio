@@ -748,12 +748,12 @@ body.light-theme .skill-card {
 .projects-grid {
     margin-top: 32px;
     display: grid;
-    grid-template-columns: repeat(4, minmax(260px, 1fr));
+    grid-template-columns: repeat(1, minmax(260px, 1fr));
     gap: 24px;
 }
 .project-card:first-child {
     grid-column: 1 / -1;
-    max-width: 600px; /* حدد أقصى عرض */
+    max-width:auto; /* حدد أقصى عرض */
     justify-self: center;
 }
 /* Project card */
