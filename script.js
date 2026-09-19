@@ -119,9 +119,9 @@ function initTypingEffect() {
     if (!typingEl) return;
 
     const roles = [
-        "Full Stack PHP Developer",
-        "Backend Developer",
-        "Laravel Developer"
+        "Full Stack web Developer",
+        "Software Testing",
+        
     ];
 
     let roleIndex = 0;
